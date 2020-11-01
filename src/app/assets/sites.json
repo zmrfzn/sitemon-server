@@ -1,0 +1,21 @@
+[{
+    "id":1,
+    "name": "Caffebasket",
+    "clientUrl" :"https://www.caffebasket.com/"
+},
+{
+    "id":2,
+    "name": "Lazy Geniuses",
+    "clientUrl" :"https://lazygeniuses.in/"
+},
+{
+    "id":3,
+    "name": "Buy me a gift",
+    "clientUrl" :"https://www.buymeagift.in/"
+},
+{
+    "id":4,
+    "name": "undyingstories",
+    "clientUrl" :"https://www.undyingstories.com/"
+}
+]
